@@ -35,7 +35,8 @@ SA-EDF selects the next task to execute by minimizing a scalar metric **Mᵢ(t)*
 |-----------|-------------|
 | **deadline_term** | Normalized remaining time to deadline: $\frac{T_i - T_{min}}{T_{max} - T_{min} + \varepsilon}$ |
 | **energy_term** | Energy feasibility: $\left(\frac{P_{req}}{P_{cap} + \varepsilon}\right)^\gamma$ where $P_{req} = \frac{E_i}{C_i} \cdot R_i(t)$ |
-| **slack_penalty** | Prevents cascading misses: $\begin{cases} R_i(t) - T_i(t) & \text{if } R_i(t) > T_i(t) \\ 0 & \text{otherwise} \end{cases}$ |
+| **slack_penalty** | Prevents cascading misses: |
+|                   | $slack = R_i(t) - T_i(t)$ if $R_i(t) > T_i(t)$, otherwise $0$ |
 
 ### Adaptive Weights
 
