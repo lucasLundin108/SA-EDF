@@ -33,36 +33,35 @@ SA-EDF selects the next task to execute by minimizing a scalar metric **Mᵢ(t)*
 
 | Component | Description |
 |-----------|-------------|
-| **deadline_term** | Normalized remaining time to deadline (Tᵢ - T_min)/(T_max - T_min) |
-| **energy_term** | Energy feasibility (P_req / P_cap)^γ where P_req = (Eᵢ/Cᵢ) × Rᵢ(t) |
-| **slack_penalty** | Prevents cascading misses when Rᵢ(t) > Tᵢ(t) |
+| **deadline_term** | Normalized remaining time to deadline: $\frac{T_i - T_{min}}{T_{max} - T_{min} + \varepsilon}$ |
+| **energy_term** | Energy feasibility: $\left(\frac{P_{req}}{P_{cap} + \varepsilon}\right)^\gamma$ where $P_{req} = \frac{E_i}{C_i} \cdot R_i(t)$ |
+| **slack_penalty** | Prevents cascading misses: $\begin{cases} R_i(t) - T_i(t) & \text{if } R_i(t) > T_i(t) \\ 0 & \text{otherwise} \end{cases}$ |
 
 ### Adaptive Weights
 
 The weights adapt based on energy scarcity:
 
-**scarcity = E_need / (E_left + ε)**
+$$scarcity = \frac{E_{need}}{E_{left} + \varepsilon}$$
 
-**α(t) = α₀ / (1 + scarcity)**
+$$\alpha(t) = \frac{\alpha_0}{1 + scarcity}$$
 
-**β(t) = β₀ × (1 + scarcity)**
+$$\beta(t) = \beta_0 \cdot (1 + scarcity)$$
 
-- When **energy is abundant** (scarcity → 0): SA-EDF behaves like classic EDF
-- When **energy is scarce** (scarcity → ∞): Energy term dominates, favoring feasible tasks
+- When **energy is abundant** ($scarcity \rightarrow 0$): SA-EDF behaves like classic EDF
+- When **energy is scarce** ($scarcity \rightarrow \infty$): Energy term dominates, favoring feasible tasks
 
 ### Scheduling Decision
 
-At each scheduling point, the task minimizing **Mᵢ(t)** is selected:
+At each scheduling point, the task minimizing **$M_i(t)$** is selected:
 
-**i*(t) = arg min Mᵢ(t)**
+$$i^*(t) = \arg \min_i M_i(t)$$
 
 ### Complexity
 
-- **Time:** O(N) per decision (N = number of ready tasks)
-- **Per-task operations:** ~28 arithmetic ops, ~9 memory accesses
+- **Time:** $O(N)$ per decision ($N$ = number of ready tasks)
+- **Per-task operations:** ~28 arithmetic ops, ~9 memory accesses---
 
----
-
+--
 ## 📊 Results
 
 ### Deadline Miss Rate
