@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.old": "c",
+        "cstdlib": "c",
+        "timers.h": "c",
+        "task.h": "c",
+        "cstdint": "c",
+        "random": "c",
+        "cmath": "c",
+        "stack_macros.h": "c",
+        "freertos.h": "c",
+        "numeric": "c"
+    }
+}

@@ -1,0 +1,613 @@
+-----Iter i: 0, Deadline Misses: 273
+Name: Leak_A   Cpu Usage: 18
+Name: Leak_B   Cpu Usage: 18
+Name: Active_A   Cpu Usage: 23
+Name: Active_B   Cpu Usage: 22
+Name: IDLE   Cpu Usage: 786
+Name: Sporadic   Cpu Usage: 16
+Name: Monitor   Cpu Usage: 87
+Name: Bg   Cpu Usage: 30
+-----Iter i: 1, Deadline Misses: 554
+Name: Leak_A   Cpu Usage: 16
+Name: Leak_B   Cpu Usage: 16
+Name: Active_A   Cpu Usage: 21
+Name: Active_B   Cpu Usage: 22
+Name: IDLE   Cpu Usage: 792
+Name: Sporadic   Cpu Usage: 17
+Name: Monitor   Cpu Usage: 88
+Name: Bg   Cpu Usage: 28
+-----Iter i: 2, Deadline Misses: 836
+Name: Leak_A   Cpu Usage: 15
+Name: Leak_B   Cpu Usage: 15
+Name: Active_A   Cpu Usage: 18
+Name: Active_B   Cpu Usage: 18
+Name: IDLE   Cpu Usage: 808
+Name: Bg   Cpu Usage: 25
+Name: Monitor   Cpu Usage: 88
+Name: Sporadic   Cpu Usage: 13
+-----Iter i: 3, Deadline Misses: 1121
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 4, Deadline Misses: 1407
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 778
+Name: Monitor   Cpu Usage: 87
+Name: Bg   Cpu Usage: 31
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 5, Deadline Misses: 1691
+Name: Leak_A   Cpu Usage: 18
+Name: Leak_B   Cpu Usage: 18
+Name: Active_A   Cpu Usage: 23
+Name: Active_B   Cpu Usage: 23
+Name: IDLE   Cpu Usage: 782
+Name: Monitor   Cpu Usage: 88
+Name: Bg   Cpu Usage: 30
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 6, Deadline Misses: 1978
+Name: Leak_A   Cpu Usage: 12
+Name: Leak_B   Cpu Usage: 12
+Name: Active_A   Cpu Usage: 14
+Name: Active_B   Cpu Usage: 14
+Name: IDLE   Cpu Usage: 829
+Name: Bg   Cpu Usage: 21
+Name: Sporadic   Cpu Usage: 9
+Name: Monitor   Cpu Usage: 89
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 7, Deadline Misses: 2263
+Name: Leak_A   Cpu Usage: 20
+Name: Leak_B   Cpu Usage: 20
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 775
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 8, Deadline Misses: 2547
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 778
+Name: Monitor   Cpu Usage: 87
+Name: Bg   Cpu Usage: 31
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 9, Deadline Misses: 2836
+Name: Leak_A   Cpu Usage: 11
+Name: Leak_B   Cpu Usage: 11
+Name: Active_A   Cpu Usage: 13
+Name: Active_B   Cpu Usage: 13
+Name: IDLE   Cpu Usage: 835
+Name: Bg   Cpu Usage: 18
+Name: Sporadic   Cpu Usage: 10
+Name: Monitor   Cpu Usage: 89
+-----Iter i: 10, Deadline Misses: 3124
+Name: Leak_A   Cpu Usage: 18
+Name: Leak_B   Cpu Usage: 18
+Name: Active_A   Cpu Usage: 23
+Name: Active_B   Cpu Usage: 23
+Name: IDLE   Cpu Usage: 783
+Name: Bg   Cpu Usage: 31
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 17
+-----Iter i: 11, Deadline Misses: 3414
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 776
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 88
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 12, Deadline Misses: 3705
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 13, Deadline Misses: 3995
+Name: Leak_A   Cpu Usage: 11
+Name: Leak_B   Cpu Usage: 10
+Name: Active_A   Cpu Usage: 14
+Name: Active_B   Cpu Usage: 14
+Name: IDLE   Cpu Usage: 833
+Name: Bg   Cpu Usage: 18
+Name: Sporadic   Cpu Usage: 11
+Name: Monitor   Cpu Usage: 89
+Name: Leak_A   Cpu Usage: 17
+Name: Leak_B   Cpu Usage: 18
+Name: Active_A   Cpu Usage: 21
+Name: Active_B   Cpu Usage: 21
+Name: IDLE   Cpu Usage: 792
+Name: Bg   Cpu Usage: 28
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 16
+-----Iter i: 14, Deadline Misses: 4285
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 776
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 88
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 15, Deadline Misses: 4577
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 16, Deadline Misses: 4865
+Name: Leak_A   Cpu Usage: 13
+Name: Leak_B   Cpu Usage: 13
+Name: Active_A   Cpu Usage: 16
+Name: Active_B   Cpu Usage: 16
+Name: IDLE   Cpu Usage: 819
+Name: Bg   Cpu Usage: 22
+Name: Sporadic   Cpu Usage: 13
+Name: Monitor   Cpu Usage: 88
+-----Iter i: 17, Deadline Misses: 5157
+Name: Leak_A   Cpu Usage: 16
+Name: Leak_B   Cpu Usage: 16
+Name: Active_A   Cpu Usage: 20
+Name: Active_B   Cpu Usage: 20
+Name: IDLE   Cpu Usage: 800
+Name: Bg   Cpu Usage: 26
+Name: Monitor   Cpu Usage: 88
+Name: Sporadic   Cpu Usage: 14
+-----Iter i: 18, Deadline Misses: 5447
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 19, Deadline Misses: 5737
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 776
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 88
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 20, Deadline Misses: 6029
+Name: Leak_A   Cpu Usage: 15
+Name: Leak_B   Cpu Usage: 15
+Name: Active_A   Cpu Usage: 18
+Name: Active_B   Cpu Usage: 17
+Name: IDLE   Cpu Usage: 811
+Name: Bg   Cpu Usage: 23
+Name: Sporadic   Cpu Usage: 13
+Name: Monitor   Cpu Usage: 88
+Name: Leak_A   Cpu Usage: 14
+Name: Leak_B   Cpu Usage: 14
+Name: Active_A   Cpu Usage: 18
+Name: Active_B   Cpu Usage: 19
+Name: IDLE   Cpu Usage: 808
+Name: Bg   Cpu Usage: 25
+Name: Monitor   Cpu Usage: 88
+Name: Sporadic   Cpu Usage: 14
+-----Iter i: 21, Deadline Misses: 6317
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 22, Deadline Misses: 6609
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 776
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 88
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 23, Deadline Misses: 6899
+Name: Leak_A   Cpu Usage: 16
+Name: Leak_B   Cpu Usage: 15
+Name: Active_A   Cpu Usage: 19
+Name: Active_B   Cpu Usage: 19
+Name: IDLE   Cpu Usage: 803
+Name: Bg   Cpu Usage: 26
+Name: Sporadic   Cpu Usage: 14
+Name: Monitor   Cpu Usage: 88
+-----Iter i: 24, Deadline Misses: 7189
+Name: Leak_A   Cpu Usage: 13
+Name: Leak_B   Cpu Usage: 14
+Name: Active_A   Cpu Usage: 17
+Name: Active_B   Cpu Usage: 17
+Name: IDLE   Cpu Usage: 816
+Name: Bg   Cpu Usage: 22
+Name: Monitor   Cpu Usage: 88
+Name: Sporadic   Cpu Usage: 13
+-----Iter i: 25, Deadline Misses: 7481
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 26, Deadline Misses: 7769
+Name: Leak_A   Cpu Usage: 20
+Name: Leak_B   Cpu Usage: 20
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 775
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 27, Deadline Misses: 8061
+Name: Leak_A   Cpu Usage: 16
+Name: Leak_B   Cpu Usage: 16
+Name: Active_A   Cpu Usage: 21
+Name: Active_B   Cpu Usage: 21
+Name: IDLE   Cpu Usage: 796
+Name: Bg   Cpu Usage: 27
+Name: Sporadic   Cpu Usage: 15
+Name: Monitor   Cpu Usage: 88
+Name: Leak_A   Cpu Usage: 12
+Name: Leak_B   Cpu Usage: 12
+Name: Active_A   Cpu Usage: 15
+Name: Active_B   Cpu Usage: 15
+Name: IDLE   Cpu Usage: 824
+Name: Bg   Cpu Usage: 21
+Name: Monitor   Cpu Usage: 89
+Name: Sporadic   Cpu Usage: 12
+-----Iter i: 28, Deadline Misses: 8351
+Name: Leak_A   Cpu Usage: 20
+Name: Leak_B   Cpu Usage: 20
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 775
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 29, Deadline Misses: 8641
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 30, Deadline Misses: 8933
+Name: Leak_A   Cpu Usage: 17
+Name: Leak_B   Cpu Usage: 17
+Name: Active_A   Cpu Usage: 22
+Name: Active_B   Cpu Usage: 22
+Name: IDLE   Cpu Usage: 788
+Name: Bg   Cpu Usage: 30
+Name: Sporadic   Cpu Usage: 16
+Name: Monitor   Cpu Usage: 88
+-----Iter i: 31, Deadline Misses: 9221
+Name: Leak_A   Cpu Usage: 12
+Name: Leak_B   Cpu Usage: 12
+Name: Active_A   Cpu Usage: 14
+Name: Active_B   Cpu Usage: 14
+Name: IDLE   Cpu Usage: 831
+Name: Bg   Cpu Usage: 18
+Name: Monitor   Cpu Usage: 88
+Name: Sporadic   Cpu Usage: 11
+-----Iter i: 32, Deadline Misses: 9513
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 776
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 88
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 33, Deadline Misses: 9803
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 34, Deadline Misses: 10093
+Name: Leak_A   Cpu Usage: 18
+Name: Leak_B   Cpu Usage: 18
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 780
+Name: Bg   Cpu Usage: 31
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+Name: Leak_A   Cpu Usage: 11
+Name: Leak_B   Cpu Usage: 11
+Name: Active_A   Cpu Usage: 12
+Name: Active_B   Cpu Usage: 12
+Name: IDLE   Cpu Usage: 839
+Name: Bg   Cpu Usage: 17
+Name: Monitor   Cpu Usage: 89
+Name: Sporadic   Cpu Usage: 9
+-----Iter i: 35, Deadline Misses: 10385
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 36, Deadline Misses: 10673
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 776
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 88
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 37, Deadline Misses: 10965
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 38, Deadline Misses: 11255
+Name: Leak_A   Cpu Usage: 10
+Name: Leak_B   Cpu Usage: 10
+Name: Active_A   Cpu Usage: 12
+Name: Active_B   Cpu Usage: 12
+Name: IDLE   Cpu Usage: 842
+Name: Bg   Cpu Usage: 16
+Name: Monitor   Cpu Usage: 89
+Name: Sporadic   Cpu Usage: 9
+-----Iter i: 39, Deadline Misses: 11545
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 40, Deadline Misses: 11837
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 41, Deadline Misses: 12125
+Name: Leak_A   Cpu Usage: 20
+Name: Leak_B   Cpu Usage: 20
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 774
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 88
+Name: Sporadic   Cpu Usage: 18
+Name: Leak_A   Cpu Usage: 9
+Name: Leak_B   Cpu Usage: 9
+Name: Active_A   Cpu Usage: 12
+Name: Active_B   Cpu Usage: 12
+Name: IDLE   Cpu Usage: 844
+Name: Bg   Cpu Usage: 16
+Name: Monitor   Cpu Usage: 89
+Name: Sporadic   Cpu Usage: 9
+-----Iter i: 42, Deadline Misses: 12417
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 43, Deadline Misses: 12707
+Name: Leak_A   Cpu Usage: 20
+Name: Leak_B   Cpu Usage: 20
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 775
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 44, Deadline Misses: 12997
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 45, Deadline Misses: 13289
+Name: Leak_A   Cpu Usage: 9
+Name: Leak_B   Cpu Usage: 9
+Name: Active_A   Cpu Usage: 12
+Name: Active_B   Cpu Usage: 12
+Name: IDLE   Cpu Usage: 843
+Name: Bg   Cpu Usage: 16
+Name: Monitor   Cpu Usage: 90
+Name: Sporadic   Cpu Usage: 9
+-----Iter i: 46, Deadline Misses: 13577
+Name: Leak_A   Cpu Usage: 20
+Name: Leak_B   Cpu Usage: 20
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 775
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 47, Deadline Misses: 13869
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 48, Deadline Misses: 14159
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+Name: Leak_A   Cpu Usage: 10
+Name: Leak_B   Cpu Usage: 10
+Name: Active_A   Cpu Usage: 12
+Name: Active_B   Cpu Usage: 12
+Name: IDLE   Cpu Usage: 842
+Name: Bg   Cpu Usage: 16
+Name: Monitor   Cpu Usage: 89
+Name: Sporadic   Cpu Usage: 9
+-----Iter i: 49, Deadline Misses: 14449
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 50, Deadline Misses: 14741
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 776
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 88
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 51, Deadline Misses: 15029
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 52, Deadline Misses: 15321
+Name: Leak_A   Cpu Usage: 10
+Name: Leak_B   Cpu Usage: 10
+Name: Active_A   Cpu Usage: 12
+Name: Active_B   Cpu Usage: 12
+Name: IDLE   Cpu Usage: 842
+Name: Bg   Cpu Usage: 16
+Name: Monitor   Cpu Usage: 89
+Name: Sporadic   Cpu Usage: 9
+-----Iter i: 53, Deadline Misses: 15611
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 54, Deadline Misses: 15901
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 776
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 88
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 55, Deadline Misses: 16193
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+Name: Leak_A   Cpu Usage: 10
+Name: Leak_B   Cpu Usage: 10
+Name: Active_A   Cpu Usage: 12
+Name: Active_B   Cpu Usage: 12
+Name: IDLE   Cpu Usage: 842
+Name: Bg   Cpu Usage: 16
+Name: Monitor   Cpu Usage: 89
+Name: Sporadic   Cpu Usage: 9
+-----Iter i: 56, Deadline Misses: 16481
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 57, Deadline Misses: 16773
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 58, Deadline Misses: 17063
+Name: Leak_A   Cpu Usage: 20
+Name: Leak_B   Cpu Usage: 20
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 775
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18
+-----Iter i: 59, Deadline Misses: 17353
+Name: Leak_A   Cpu Usage: 9
+Name: Leak_B   Cpu Usage: 9
+Name: Active_A   Cpu Usage: 12
+Name: Active_B   Cpu Usage: 12
+Name: IDLE   Cpu Usage: 843
+Name: Bg   Cpu Usage: 16
+Name: Monitor   Cpu Usage: 90
+Name: Sporadic   Cpu Usage: 9
+-----Iter i: 60, Deadline Misses: 17645
+Name: Leak_A   Cpu Usage: 19
+Name: Leak_B   Cpu Usage: 19
+Name: Active_A   Cpu Usage: 24
+Name: Active_B   Cpu Usage: 24
+Name: IDLE   Cpu Usage: 777
+Name: Bg   Cpu Usage: 32
+Name: Monitor   Cpu Usage: 87
+Name: Sporadic   Cpu Usage: 18

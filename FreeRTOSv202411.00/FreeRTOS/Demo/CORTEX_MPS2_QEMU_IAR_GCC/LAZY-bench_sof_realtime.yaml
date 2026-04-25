@@ -1,0 +1,600 @@
+-----Iter i: 0, Deadline Misses: 266
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 291
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 163
+Name: Monitor   Cpu Usage: 56
+-----Iter i: 1, Deadline Misses: 537
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 299
+Name: cnt   Cpu Usage: 102
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 157
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 2, Deadline Misses: 803
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 287
+Name: cnt   Cpu Usage: 108
+Name: adpcm   Cpu Usage: 113
+Name: compress   Cpu Usage: 160
+Name: Monitor   Cpu Usage: 57
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 136
+Name: IDLE   Cpu Usage: 301
+Name: cnt   Cpu Usage: 102
+Name: adpcm   Cpu Usage: 112
+Name: compress   Cpu Usage: 159
+Name: Monitor   Cpu Usage: 55
+-----Iter i: 3, Deadline Misses: 1070
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 144
+Name: IDLE   Cpu Usage: 291
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 158
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 4, Deadline Misses: 1338
+Name: fft1   Cpu Usage: 132
+Name: jfdctint   Cpu Usage: 136
+Name: IDLE   Cpu Usage: 303
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 158
+Name: Monitor   Cpu Usage: 56
+-----Iter i: 5, Deadline Misses: 1607
+Name: fft1   Cpu Usage: 138
+Name: jfdctint   Cpu Usage: 144
+Name: IDLE   Cpu Usage: 285
+Name: cnt   Cpu Usage: 106
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 160
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 6, Deadline Misses: 1876
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 136
+Name: IDLE   Cpu Usage: 305
+Name: cnt   Cpu Usage: 103
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 155
+Name: Monitor   Cpu Usage: 56
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 286
+Name: cnt   Cpu Usage: 106
+Name: adpcm   Cpu Usage: 115
+Name: compress   Cpu Usage: 162
+Name: Monitor   Cpu Usage: 56
+-----Iter i: 7, Deadline Misses: 2145
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 303
+Name: cnt   Cpu Usage: 102
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 153
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 8, Deadline Misses: 2415
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 287
+Name: cnt   Cpu Usage: 108
+Name: adpcm   Cpu Usage: 110
+Name: Monitor   Cpu Usage: 56
+Name: compress   Cpu Usage: 164
+-----Iter i: 9, Deadline Misses: 2685
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 138
+Name: IDLE   Cpu Usage: 308
+Name: cnt   Cpu Usage: 102
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 155
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 10, Deadline Misses: 2950
+Name: fft1   Cpu Usage: 140
+Name: jfdctint   Cpu Usage: 142
+Name: IDLE   Cpu Usage: 284
+Name: cnt   Cpu Usage: 108
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 164
+Name: Monitor   Cpu Usage: 57
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 302
+Name: cnt   Cpu Usage: 102
+Name: adpcm   Cpu Usage: 112
+Name: compress   Cpu Usage: 152
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 11, Deadline Misses: 3220
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 142
+Name: IDLE   Cpu Usage: 287
+Name: cnt   Cpu Usage: 108
+Name: adpcm   Cpu Usage: 108
+Name: Monitor   Cpu Usage: 56
+Name: compress   Cpu Usage: 164
+-----Iter i: 12, Deadline Misses: 3490
+Name: fft1   Cpu Usage: 130
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 303
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 110
+Name: Monitor   Cpu Usage: 57
+Name: compress   Cpu Usage: 155
+-----Iter i: 13, Deadline Misses: 3757
+Name: fft1   Cpu Usage: 140
+Name: jfdctint   Cpu Usage: 138
+Name: IDLE   Cpu Usage: 294
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 161
+Name: Monitor   Cpu Usage: 57
+Name: fft1   Cpu Usage: 140
+Name: jfdctint   Cpu Usage: 136
+Name: IDLE   Cpu Usage: 298
+Name: cnt   Cpu Usage: 102
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 158
+Name: Monitor   Cpu Usage: 56
+-----Iter i: 14, Deadline Misses: 4028
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 142
+Name: IDLE   Cpu Usage: 298
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 157
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 15, Deadline Misses: 4295
+Name: fft1   Cpu Usage: 140
+Name: jfdctint   Cpu Usage: 142
+Name: IDLE   Cpu Usage: 284
+Name: cnt   Cpu Usage: 108
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 160
+Name: Monitor   Cpu Usage: 56
+-----Iter i: 16, Deadline Misses: 4565
+Name: fft1   Cpu Usage: 140
+Name: jfdctint   Cpu Usage: 136
+Name: IDLE   Cpu Usage: 305
+Name: cnt   Cpu Usage: 102
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 155
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 17, Deadline Misses: 4832
+Name: fft1   Cpu Usage: 140
+Name: jfdctint   Cpu Usage: 142
+Name: IDLE   Cpu Usage: 288
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 105
+Name: Monitor   Cpu Usage: 56
+Name: compress   Cpu Usage: 164
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 138
+Name: IDLE   Cpu Usage: 307
+Name: cnt   Cpu Usage: 102
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 156
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 18, Deadline Misses: 5099
+Name: fft1   Cpu Usage: 145
+Name: jfdctint   Cpu Usage: 138
+Name: IDLE   Cpu Usage: 285
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 160
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 19, Deadline Misses: 5364
+Name: fft1   Cpu Usage: 130
+Name: jfdctint   Cpu Usage: 142
+Name: IDLE   Cpu Usage: 305
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 157
+Name: Monitor   Cpu Usage: 56
+-----Iter i: 20, Deadline Misses: 5637
+Name: fft1   Cpu Usage: 136
+Name: jfdctint   Cpu Usage: 144
+Name: IDLE   Cpu Usage: 290
+Name: cnt   Cpu Usage: 108
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 158
+Name: Monitor   Cpu Usage: 59
+-----Iter i: 21, Deadline Misses: 5911
+Name: fft1   Cpu Usage: 134
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 295
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 110
+Name: Monitor   Cpu Usage: 57
+Name: compress   Cpu Usage: 159
+Name: fft1   Cpu Usage: 137
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 293
+Name: cnt   Cpu Usage: 108
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 160
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 22, Deadline Misses: 6180
+Name: fft1   Cpu Usage: 133
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 302
+Name: cnt   Cpu Usage: 103
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 156
+Name: Monitor   Cpu Usage: 56
+-----Iter i: 23, Deadline Misses: 6448
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 290
+Name: cnt   Cpu Usage: 104
+Name: adpcm   Cpu Usage: 115
+Name: compress   Cpu Usage: 158
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 24, Deadline Misses: 6712
+Name: fft1   Cpu Usage: 140
+Name: jfdctint   Cpu Usage: 144
+Name: IDLE   Cpu Usage: 289
+Name: cnt   Cpu Usage: 108
+Name: adpcm   Cpu Usage: 100
+Name: compress   Cpu Usage: 161
+Name: Monitor   Cpu Usage: 58
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 136
+Name: IDLE   Cpu Usage: 305
+Name: cnt   Cpu Usage: 102
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 156
+Name: Monitor   Cpu Usage: 56
+-----Iter i: 25, Deadline Misses: 6979
+Name: fft1   Cpu Usage: 134
+Name: jfdctint   Cpu Usage: 144
+Name: IDLE   Cpu Usage: 285
+Name: cnt   Cpu Usage: 108
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 160
+Name: Monitor   Cpu Usage: 59
+-----Iter i: 26, Deadline Misses: 7247
+Name: fft1   Cpu Usage: 136
+Name: jfdctint   Cpu Usage: 136
+Name: IDLE   Cpu Usage: 303
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 159
+Name: Monitor   Cpu Usage: 56
+-----Iter i: 27, Deadline Misses: 7514
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 144
+Name: IDLE   Cpu Usage: 289
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 110
+Name: Monitor   Cpu Usage: 57
+Name: compress   Cpu Usage: 160
+-----Iter i: 28, Deadline Misses: 7789
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 137
+Name: IDLE   Cpu Usage: 302
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 155
+Name: Monitor   Cpu Usage: 56
+Name: fft1   Cpu Usage: 140
+Name: jfdctint   Cpu Usage: 139
+Name: IDLE   Cpu Usage: 289
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 108
+Name: compress   Cpu Usage: 161
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 29, Deadline Misses: 8060
+Name: fft1   Cpu Usage: 132
+Name: jfdctint   Cpu Usage: 144
+Name: IDLE   Cpu Usage: 294
+Name: cnt   Cpu Usage: 108
+Name: adpcm   Cpu Usage: 107
+Name: Monitor   Cpu Usage: 56
+Name: compress   Cpu Usage: 159
+-----Iter i: 30, Deadline Misses: 8330
+Name: fft1   Cpu Usage: 133
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 301
+Name: cnt   Cpu Usage: 103
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 156
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 31, Deadline Misses: 8597
+Name: fft1   Cpu Usage: 140
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 292
+Name: cnt   Cpu Usage: 107
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 160
+Name: Monitor   Cpu Usage: 56
+-----Iter i: 32, Deadline Misses: 8868
+Name: fft1   Cpu Usage: 140
+Name: jfdctint   Cpu Usage: 136
+Name: IDLE   Cpu Usage: 301
+Name: cnt   Cpu Usage: 99
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 157
+Name: Monitor   Cpu Usage: 57
+Name: fft1   Cpu Usage: 132
+Name: jfdctint   Cpu Usage: 144
+Name: IDLE   Cpu Usage: 290
+Name: cnt   Cpu Usage: 108
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 158
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 33, Deadline Misses: 9137
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 136
+Name: IDLE   Cpu Usage: 303
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 160
+Name: Monitor   Cpu Usage: 56
+-----Iter i: 34, Deadline Misses: 9408
+Name: fft1   Cpu Usage: 138
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 286
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 113
+Name: compress   Cpu Usage: 160
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 35, Deadline Misses: 9679
+Name: fft1   Cpu Usage: 133
+Name: jfdctint   Cpu Usage: 144
+Name: IDLE   Cpu Usage: 296
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 107
+Name: Monitor   Cpu Usage: 56
+Name: compress   Cpu Usage: 159
+-----Iter i: 36, Deadline Misses: 9948
+Name: fft1   Cpu Usage: 137
+Name: jfdctint   Cpu Usage: 138
+Name: IDLE   Cpu Usage: 297
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 156
+Name: Monitor   Cpu Usage: 57
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 144
+Name: IDLE   Cpu Usage: 292
+Name: cnt   Cpu Usage: 108
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 160
+Name: Monitor   Cpu Usage: 56
+-----Iter i: 37, Deadline Misses: 10218
+Name: fft1   Cpu Usage: 134
+Name: jfdctint   Cpu Usage: 138
+Name: IDLE   Cpu Usage: 304
+Name: cnt   Cpu Usage: 102
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 155
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 38, Deadline Misses: 10486
+Name: fft1   Cpu Usage: 141
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 288
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 105
+Name: Monitor   Cpu Usage: 57
+Name: compress   Cpu Usage: 164
+-----Iter i: 39, Deadline Misses: 10752
+Name: fft1   Cpu Usage: 139
+Name: jfdctint   Cpu Usage: 132
+Name: IDLE   Cpu Usage: 305
+Name: cnt   Cpu Usage: 102
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 156
+Name: Monitor   Cpu Usage: 56
+Name: fft1   Cpu Usage: 136
+Name: jfdctint   Cpu Usage: 144
+Name: IDLE   Cpu Usage: 291
+Name: cnt   Cpu Usage: 108
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 159
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 40, Deadline Misses: 11021
+Name: fft1   Cpu Usage: 136
+Name: jfdctint   Cpu Usage: 144
+Name: IDLE   Cpu Usage: 293
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 156
+Name: Monitor   Cpu Usage: 56
+-----Iter i: 41, Deadline Misses: 11291
+Name: fft1   Cpu Usage: 137
+Name: jfdctint   Cpu Usage: 136
+Name: IDLE   Cpu Usage: 300
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 160
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 42, Deadline Misses: 11555
+Name: fft1   Cpu Usage: 137
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 301
+Name: cnt   Cpu Usage: 102
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 158
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 43, Deadline Misses: 11824
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 285
+Name: cnt   Cpu Usage: 108
+Name: adpcm   Cpu Usage: 115
+Name: compress   Cpu Usage: 159
+Name: Monitor   Cpu Usage: 58
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 144
+Name: IDLE   Cpu Usage: 298
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 158
+Name: Monitor   Cpu Usage: 55
+-----Iter i: 44, Deadline Misses: 12093
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 295
+Name: cnt   Cpu Usage: 107
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 155
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 45, Deadline Misses: 12359
+Name: fft1   Cpu Usage: 140
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 290
+Name: cnt   Cpu Usage: 103
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 161
+Name: Monitor   Cpu Usage: 56
+-----Iter i: 46, Deadline Misses: 12623
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 136
+Name: IDLE   Cpu Usage: 306
+Name: cnt   Cpu Usage: 102
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 159
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 47, Deadline Misses: 12894
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 144
+Name: IDLE   Cpu Usage: 288
+Name: cnt   Cpu Usage: 108
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 162
+Name: Monitor   Cpu Usage: 58
+Name: fft1   Cpu Usage: 140
+Name: jfdctint   Cpu Usage: 136
+Name: IDLE   Cpu Usage: 301
+Name: cnt   Cpu Usage: 102
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 156
+Name: Monitor   Cpu Usage: 55
+-----Iter i: 48, Deadline Misses: 13161
+Name: fft1   Cpu Usage: 140
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 291
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 161
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 49, Deadline Misses: 13427
+Name: fft1   Cpu Usage: 145
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 293
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 156
+Name: Monitor   Cpu Usage: 56
+-----Iter i: 50, Deadline Misses: 13697
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 136
+Name: IDLE   Cpu Usage: 302
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 155
+Name: Monitor   Cpu Usage: 57
+Name: fft1   Cpu Usage: 140
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 292
+Name: cnt   Cpu Usage: 103
+Name: adpcm   Cpu Usage: 105
+Name: Monitor   Cpu Usage: 56
+Name: compress   Cpu Usage: 164
+-----Iter i: 51, Deadline Misses: 13961
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 302
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 156
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 52, Deadline Misses: 14232
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 144
+Name: IDLE   Cpu Usage: 285
+Name: cnt   Cpu Usage: 110
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 163
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 53, Deadline Misses: 14502
+Name: fft1   Cpu Usage: 130
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 306
+Name: cnt   Cpu Usage: 102
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 154
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 54, Deadline Misses: 14775
+Name: fft1   Cpu Usage: 140
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 283
+Name: cnt   Cpu Usage: 108
+Name: adpcm   Cpu Usage: 110
+Name: Monitor   Cpu Usage: 57
+Name: compress   Cpu Usage: 162
+Name: fft1   Cpu Usage: 130
+Name: jfdctint   Cpu Usage: 142
+Name: IDLE   Cpu Usage: 306
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 156
+Name: Monitor   Cpu Usage: 56
+-----Iter i: 55, Deadline Misses: 15038
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 287
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 115
+Name: compress   Cpu Usage: 160
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 56, Deadline Misses: 15306
+Name: fft1   Cpu Usage: 140
+Name: jfdctint   Cpu Usage: 142
+Name: IDLE   Cpu Usage: 301
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 100
+Name: compress   Cpu Usage: 155
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 57, Deadline Misses: 15570
+Name: fft1   Cpu Usage: 140
+Name: jfdctint   Cpu Usage: 136
+Name: IDLE   Cpu Usage: 288
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 163
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 58, Deadline Misses: 15841
+Name: fft1   Cpu Usage: 131
+Name: jfdctint   Cpu Usage: 144
+Name: IDLE   Cpu Usage: 294
+Name: cnt   Cpu Usage: 108
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 156
+Name: Monitor   Cpu Usage: 57
+Name: fft1   Cpu Usage: 134
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 299
+Name: cnt   Cpu Usage: 105
+Name: adpcm   Cpu Usage: 105
+Name: compress   Cpu Usage: 160
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 59, Deadline Misses: 16111
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 300
+Name: cnt   Cpu Usage: 103
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 156
+Name: Monitor   Cpu Usage: 56
+-----Iter i: 60, Deadline Misses: 16384
+Name: fft1   Cpu Usage: 135
+Name: jfdctint   Cpu Usage: 140
+Name: IDLE   Cpu Usage: 296
+Name: cnt   Cpu Usage: 104
+Name: adpcm   Cpu Usage: 110
+Name: compress   Cpu Usage: 158
+Name: Monitor   Cpu Usage: 57

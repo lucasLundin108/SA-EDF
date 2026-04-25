@@ -1,0 +1,572 @@
+-----Iter i: 0, Deadline Misses: 139
+Name: IDLE   Cpu Usage: 290
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 114
+Name: crc   Cpu Usage: 124
+Name: matmult   Cpu Usage: 113
+Name: Monitor   Cpu Usage: 59
+-----Iter i: 1, Deadline Misses: 290
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 169
+Name: ludcmp   Cpu Usage: 110
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 118
+Name: Monitor   Cpu Usage: 59
+-----Iter i: 2, Deadline Misses: 442
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 120
+Name: bs   Cpu Usage: 169
+Name: ludcmp   Cpu Usage: 119
+Name: crc   Cpu Usage: 120
+Name: Monitor   Cpu Usage: 59
+Name: matmult   Cpu Usage: 119
+-----Iter i: 3, Deadline Misses: 587
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 174
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: Monitor   Cpu Usage: 58
+Name: matmult   Cpu Usage: 119
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 174
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 125
+Name: Monitor   Cpu Usage: 58
+Name: matmult   Cpu Usage: 112
+-----Iter i: 4, Deadline Misses: 738
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 180
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 113
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 5, Deadline Misses: 889
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 122
+Name: bs   Cpu Usage: 170
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 119
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 6, Deadline Misses: 1035
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 123
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 119
+Name: Monitor   Cpu Usage: 59
+-----Iter i: 7, Deadline Misses: 1188
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 120
+Name: matmult   Cpu Usage: 115
+Name: Monitor   Cpu Usage: 59
+-----Iter i: 8, Deadline Misses: 1346
+Name: IDLE   Cpu Usage: 289
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 113
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 116
+Name: Monitor   Cpu Usage: 57
+Name: IDLE   Cpu Usage: 288
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 111
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 118
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 9, Deadline Misses: 1493
+Name: IDLE   Cpu Usage: 288
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 108
+Name: crc   Cpu Usage: 125
+Name: Monitor   Cpu Usage: 60
+Name: matmult   Cpu Usage: 119
+-----Iter i: 10, Deadline Misses: 1643
+Name: IDLE   Cpu Usage: 290
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 107
+Name: crc   Cpu Usage: 125
+Name: Monitor   Cpu Usage: 59
+Name: matmult   Cpu Usage: 119
+-----Iter i: 11, Deadline Misses: 1788
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 107
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 117
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 12, Deadline Misses: 1938
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 111
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 13, Deadline Misses: 2087
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 118
+Name: Monitor   Cpu Usage: 58
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 120
+Name: bs   Cpu Usage: 168
+Name: ludcmp   Cpu Usage: 119
+Name: crc   Cpu Usage: 123
+Name: matmult   Cpu Usage: 117
+Name: Monitor   Cpu Usage: 59
+-----Iter i: 14, Deadline Misses: 2234
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 118
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 15, Deadline Misses: 2388
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 122
+Name: matmult   Cpu Usage: 115
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 16, Deadline Misses: 2541
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 117
+Name: Monitor   Cpu Usage: 59
+-----Iter i: 17, Deadline Misses: 2692
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 120
+Name: bs   Cpu Usage: 168
+Name: ludcmp   Cpu Usage: 119
+Name: crc   Cpu Usage: 121
+Name: matmult   Cpu Usage: 119
+Name: Monitor   Cpu Usage: 59
+Name: IDLE   Cpu Usage: 291
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 109
+Name: crc   Cpu Usage: 124
+Name: Monitor   Cpu Usage: 58
+Name: matmult   Cpu Usage: 118
+-----Iter i: 18, Deadline Misses: 2841
+Name: IDLE   Cpu Usage: 286
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 108
+Name: crc   Cpu Usage: 130
+Name: matmult   Cpu Usage: 117
+Name: Monitor   Cpu Usage: 59
+-----Iter i: 19, Deadline Misses: 2997
+Name: IDLE   Cpu Usage: 284
+Name: qsort   Cpu Usage: 130
+Name: bs   Cpu Usage: 180
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 115
+Name: Monitor   Cpu Usage: 61
+-----Iter i: 20, Deadline Misses: 3147
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 123
+Name: bs   Cpu Usage: 170
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 125
+Name: Monitor   Cpu Usage: 58
+Name: matmult   Cpu Usage: 118
+-----Iter i: 21, Deadline Misses: 3294
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 123
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: Monitor   Cpu Usage: 59
+Name: matmult   Cpu Usage: 119
+-----Iter i: 22, Deadline Misses: 3438
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 124
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 118
+Name: Monitor   Cpu Usage: 59
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 123
+Name: matmult   Cpu Usage: 113
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 23, Deadline Misses: 3590
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 123
+Name: matmult   Cpu Usage: 113
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 24, Deadline Misses: 3738
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 124
+Name: matmult   Cpu Usage: 119
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 25, Deadline Misses: 3891
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 124
+Name: bs   Cpu Usage: 168
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 118
+Name: Monitor   Cpu Usage: 59
+-----Iter i: 26, Deadline Misses: 4044
+Name: IDLE   Cpu Usage: 290
+Name: qsort   Cpu Usage: 121
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 117
+Name: Monitor   Cpu Usage: 60
+-----Iter i: 27, Deadline Misses: 4194
+Name: IDLE   Cpu Usage: 281
+Name: qsort   Cpu Usage: 130
+Name: bs   Cpu Usage: 182
+Name: ludcmp   Cpu Usage: 108
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 115
+Name: Monitor   Cpu Usage: 59
+Name: IDLE   Cpu Usage: 290
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 174
+Name: ludcmp   Cpu Usage: 109
+Name: crc   Cpu Usage: 125
+Name: Monitor   Cpu Usage: 59
+Name: matmult   Cpu Usage: 118
+-----Iter i: 28, Deadline Misses: 4337
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 174
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: Monitor   Cpu Usage: 58
+Name: matmult   Cpu Usage: 119
+-----Iter i: 29, Deadline Misses: 4487
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 122
+Name: bs   Cpu Usage: 170
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 125
+Name: Monitor   Cpu Usage: 58
+Name: matmult   Cpu Usage: 119
+-----Iter i: 30, Deadline Misses: 4633
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 128
+Name: bs   Cpu Usage: 176
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 112
+Name: Monitor   Cpu Usage: 60
+-----Iter i: 31, Deadline Misses: 4786
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 120
+Name: bs   Cpu Usage: 174
+Name: ludcmp   Cpu Usage: 119
+Name: crc   Cpu Usage: 120
+Name: matmult   Cpu Usage: 114
+Name: Monitor   Cpu Usage: 59
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 124
+Name: bs   Cpu Usage: 168
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 118
+Name: Monitor   Cpu Usage: 59
+-----Iter i: 32, Deadline Misses: 4938
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 119
+Name: Monitor   Cpu Usage: 57
+-----Iter i: 33, Deadline Misses: 5087
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 121
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 108
+Name: crc   Cpu Usage: 125
+Name: Monitor   Cpu Usage: 59
+Name: matmult   Cpu Usage: 118
+-----Iter i: 34, Deadline Misses: 5233
+Name: IDLE   Cpu Usage: 286
+Name: qsort   Cpu Usage: 130
+Name: bs   Cpu Usage: 182
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 113
+Name: Monitor   Cpu Usage: 59
+-----Iter i: 35, Deadline Misses: 5377
+Name: IDLE   Cpu Usage: 287
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 111
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 118
+Name: Monitor   Cpu Usage: 59
+-----Iter i: 36, Deadline Misses: 5530
+Name: IDLE   Cpu Usage: 290
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 108
+Name: crc   Cpu Usage: 125
+Name: Monitor   Cpu Usage: 58
+Name: matmult   Cpu Usage: 119
+Name: IDLE   Cpu Usage: 293
+Name: qsort   Cpu Usage: 122
+Name: bs   Cpu Usage: 168
+Name: ludcmp   Cpu Usage: 114
+Name: crc   Cpu Usage: 125
+Name: Monitor   Cpu Usage: 59
+Name: matmult   Cpu Usage: 119
+-----Iter i: 37, Deadline Misses: 5682
+Name: IDLE   Cpu Usage: 293
+Name: qsort   Cpu Usage: 123
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 120
+Name: Monitor   Cpu Usage: 58
+Name: matmult   Cpu Usage: 119
+-----Iter i: 38, Deadline Misses: 5827
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 130
+Name: Monitor   Cpu Usage: 59
+Name: matmult   Cpu Usage: 112
+-----Iter i: 39, Deadline Misses: 5977
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 120
+Name: matmult   Cpu Usage: 116
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 40, Deadline Misses: 6132
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 120
+Name: Monitor   Cpu Usage: 56
+-----Iter i: 41, Deadline Misses: 6280
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 170
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 114
+Name: Monitor   Cpu Usage: 60
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 180
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 113
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 42, Deadline Misses: 6430
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 120
+Name: bs   Cpu Usage: 168
+Name: ludcmp   Cpu Usage: 115
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 119
+Name: Monitor   Cpu Usage: 59
+-----Iter i: 43, Deadline Misses: 6584
+Name: IDLE   Cpu Usage: 293
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 109
+Name: crc   Cpu Usage: 123
+Name: Monitor   Cpu Usage: 57
+Name: matmult   Cpu Usage: 118
+-----Iter i: 44, Deadline Misses: 6732
+Name: IDLE   Cpu Usage: 288
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 122
+Name: Monitor   Cpu Usage: 59
+Name: matmult   Cpu Usage: 119
+-----Iter i: 45, Deadline Misses: 6877
+Name: IDLE   Cpu Usage: 286
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 130
+Name: Monitor   Cpu Usage: 60
+Name: matmult   Cpu Usage: 119
+Name: IDLE   Cpu Usage: 288
+Name: qsort   Cpu Usage: 130
+Name: bs   Cpu Usage: 180
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 113
+Name: Monitor   Cpu Usage: 59
+-----Iter i: 46, Deadline Misses: 7024
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 123
+Name: bs   Cpu Usage: 170
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 118
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 47, Deadline Misses: 7178
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 122
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 122
+Name: Monitor   Cpu Usage: 56
+Name: matmult   Cpu Usage: 119
+-----Iter i: 48, Deadline Misses: 7329
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 109
+Name: crc   Cpu Usage: 123
+Name: matmult   Cpu Usage: 113
+Name: Monitor   Cpu Usage: 61
+-----Iter i: 49, Deadline Misses: 7478
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 122
+Name: bs   Cpu Usage: 168
+Name: ludcmp   Cpu Usage: 115
+Name: crc   Cpu Usage: 125
+Name: Monitor   Cpu Usage: 58
+Name: matmult   Cpu Usage: 118
+-----Iter i: 50, Deadline Misses: 7628
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 128
+Name: bs   Cpu Usage: 176
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 113
+Name: Monitor   Cpu Usage: 59
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 120
+Name: bs   Cpu Usage: 174
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 122
+Name: matmult   Cpu Usage: 119
+Name: Monitor   Cpu Usage: 59
+-----Iter i: 51, Deadline Misses: 7775
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 118
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 52, Deadline Misses: 7922
+Name: IDLE   Cpu Usage: 289
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 106
+Name: crc   Cpu Usage: 128
+Name: Monitor   Cpu Usage: 58
+Name: matmult   Cpu Usage: 119
+-----Iter i: 53, Deadline Misses: 8071
+Name: IDLE   Cpu Usage: 283
+Name: qsort   Cpu Usage: 130
+Name: bs   Cpu Usage: 182
+Name: ludcmp   Cpu Usage: 108
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 113
+Name: Monitor   Cpu Usage: 59
+-----Iter i: 54, Deadline Misses: 8220
+Name: IDLE   Cpu Usage: 289
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 108
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 118
+Name: Monitor   Cpu Usage: 60
+-----Iter i: 55, Deadline Misses: 8372
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 120
+Name: bs   Cpu Usage: 168
+Name: ludcmp   Cpu Usage: 119
+Name: crc   Cpu Usage: 120
+Name: Monitor   Cpu Usage: 60
+Name: matmult   Cpu Usage: 119
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 172
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: Monitor   Cpu Usage: 60
+Name: matmult   Cpu Usage: 119
+-----Iter i: 56, Deadline Misses: 8519
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 173
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 113
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 57, Deadline Misses: 8666
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 125
+Name: bs   Cpu Usage: 180
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 112
+Name: Monitor   Cpu Usage: 59
+-----Iter i: 58, Deadline Misses: 8818
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 124
+Name: bs   Cpu Usage: 168
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 119
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 59, Deadline Misses: 8967
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 124
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 105
+Name: crc   Cpu Usage: 125
+Name: matmult   Cpu Usage: 119
+Name: Monitor   Cpu Usage: 58
+-----Iter i: 60, Deadline Misses: 9119
+Name: IDLE   Cpu Usage: 294
+Name: qsort   Cpu Usage: 122
+Name: bs   Cpu Usage: 175
+Name: ludcmp   Cpu Usage: 112
+Name: crc   Cpu Usage: 120
+Name: Monitor   Cpu Usage: 59
+Name: matmult   Cpu Usage: 118
