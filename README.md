@@ -133,3 +133,25 @@ SA-EDF maintains **positive slack** even under severe energy constraints, compar
 ---
 
 
+##  Quick Start 
+
+### High-Level C Scheduler 
+
+Compile: 
+
+``` 
+gcc -O2 -std=c11 -Wall -Wextra main.c -o scheduler -lm 
+``` 
+
+Compiler flags explained: 
+- -O2 : Optimization level 2 
+- -std=c11 : C11 standard 
+- -Wall -Wextra : Enable all warnings 
+- -lm : Link math library 
+
+Run: 
+
+``` 
+./scheduler 
+``` 
+
