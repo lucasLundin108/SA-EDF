@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-10.0+-0088CC.svg)](https://freertos.org)
 [![DOI](https://zenodo.org/badge/1220788893.svg)](https://doi.org/10.5281/zenodo.19763782)
+
 ---
 
 ## 📖 About
