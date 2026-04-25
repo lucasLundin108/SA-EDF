@@ -155,3 +155,25 @@ Run:
 ./scheduler 
 ``` 
 
+### FreeRTOS Simulation 
+
+Navigate to the FreeRTOS demo directory: 
+
+``` 
+cd FreeRTOSv202411.00/FreeRTOS/Demo/CORTEX_MPS2_QEMU_IAR_GCC/build/gcc 
+``` 
+
+Build the project: 
+
+``` 
+make 
+``` 
+
+Run with QEMU emulator: 
+
+``` 
+qemu-system-arm -machine mps2-an385 -cpu cortex-m3 -kernel output/RTOSDemo.out -monitor none -nographic -serial stdio 
+``` 
+
+
+
