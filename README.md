@@ -18,7 +18,7 @@ SA-EDF solves this by dynamically adapting scheduling decisions based on:
 - Energy scarcity level
 
 > 📄 This repository accompanies the paper:  
-> *"SA-EDF: A Shortage-Adaptive Real-Time Scheduler for Intermittently Powered Cyber-Physical Systems"*  
+> *"SA-EDF: A Shortage-Adaptive Real-Time Scheduler for Intermittently Powered IoT Edge Devices"*  
 
 ---
 
